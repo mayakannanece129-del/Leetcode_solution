@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/mayakannanece129-del/Leetcode_solution/tree/master/0027-remove-element) |
 | [0066-plus-one](https://github.com/mayakannanece129-del/Leetcode_solution/tree/master/0066-plus-one) |
 | [1480-running-sum-of-1d-array](https://github.com/mayakannanece129-del/Leetcode_solution/tree/master/1480-running-sum-of-1d-array) |
+| [3898-find-the-degree-of-each-vertex](https://github.com/mayakannanece129-del/Leetcode_solution/tree/master/3898-find-the-degree-of-each-vertex) |
 ## Trie
 |  |
 | ------- |
@@ -79,4 +80,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1480-running-sum-of-1d-array](https://github.com/mayakannanece129-del/Leetcode_solution/tree/master/1480-running-sum-of-1d-array) |
+## Graph Theory
+|  |
+| ------- |
+| [3898-find-the-degree-of-each-vertex](https://github.com/mayakannanece129-del/Leetcode_solution/tree/master/3898-find-the-degree-of-each-vertex) |
+## Matrix
+|  |
+| ------- |
+| [3898-find-the-degree-of-each-vertex](https://github.com/mayakannanece129-del/Leetcode_solution/tree/master/3898-find-the-degree-of-each-vertex) |
 <!---LeetCode Topics End-->
