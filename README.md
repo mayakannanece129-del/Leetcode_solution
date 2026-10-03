@@ -7,11 +7,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/mayakannanece129-del/Leetcode_solution/tree/master/0007-reverse-integer) |
 | [0013-roman-to-integer](https://github.com/mayakannanece129-del/Leetcode_solution/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/mayakannanece129-del/Leetcode_solution/tree/master/0066-plus-one) |
+| [0202-happy-number](https://github.com/mayakannanece129-del/Leetcode_solution/tree/master/0202-happy-number) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/mayakannanece129-del/Leetcode_solution/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/mayakannanece129-del/Leetcode_solution/tree/master/0013-roman-to-integer) |
+| [0202-happy-number](https://github.com/mayakannanece129-del/Leetcode_solution/tree/master/0202-happy-number) |
 ## String
 |  |
 | ------- |
@@ -60,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/mayakannanece129-del/Leetcode_solution/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/mayakannanece129-del/Leetcode_solution/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/mayakannanece129-del/Leetcode_solution/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0202-happy-number](https://github.com/mayakannanece129-del/Leetcode_solution/tree/master/0202-happy-number) |
 ## String Matching
 |  |
 | ------- |
@@ -101,4 +104,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0110-balanced-binary-tree](https://github.com/mayakannanece129-del/Leetcode_solution/tree/master/0110-balanced-binary-tree) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/mayakannanece129-del/Leetcode_solution/tree/master/0202-happy-number) |
 <!---LeetCode Topics End-->
